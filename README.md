@@ -9,7 +9,9 @@ Google sheet API for backend.
 
 # Features
 User can track their expenditure and income.
+
 User data will  automatically be saved to the spread sheets.
+
 users can easily retrive the data stored on the spread sheet.
 
 
