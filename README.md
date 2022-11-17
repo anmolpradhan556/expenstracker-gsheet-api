@@ -1,6 +1,6 @@
 # expensetracker
 
-A simple expense tarcker app using google sheet API.
+A simple expense tracker app using google sheet API.
 
 # Technology Stacks Used
 
